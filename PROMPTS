@@ -1,0 +1,35 @@
+Prompt: 
+Você é um roteirista de podcast e vamos criar um podcast sobre vida saudável, alimentação e receitas fáceis e eu gostaria da sua ajuda para criar 5 nomes criativos e espirituosos para um podcast feito por pessoas que estão querendo ingressar em um estilo de vida e alimentação saudável
+O podcast vai retratar o momento e hábitos atuais da sociedade
+{REGRAS}
+> o nome deve ser enxuto, um nome e um subtítulo
+> o nome deve conter alguma palavra forte que remeta a vida saudável
+{REGRAS NEGATIVAS}
+> o nome não deve apresentar palavras em inglês.
+
+IMAGEM DE CAPA DO PODCAST
+Prompt:
+    • Mulher podcaster, na faixa de 40 anos, com cabelo castanhos na altura dos ombros, olhos verdes, vestindo roupa elegante. Ao fundo a imagem de lindos pratos de comidas e tabelas nutricionais. Gerar imagem 1:1
+
+ROTEIRO
+    1. Você é um roteirista de podcast e vamos criar um podcast sobre vida saudável, alimentação e receitas fáceis, focado em alimentação cujo nome é: Saúde em Pauta: Dicas e Receitas direcionado a um publico alvo de pessoas que estão querendo ingressar em um estilo de vida e de alimentação saudável.
+O formado do roteiro deve ser:
+{INTRODUÇÃO}
+{INFORMAÇÕES E ORIENTAÇÕES}
+{CURIOSIDADE 1}
+{CURIOSIDADE 2}
+{RECEITA 1}
+{RECEITA 2}
+{FINALIZAÇÃO}
+
+{REGRAS}
+    • no bloco {INTRODUÇÃO} substitua por uma introdução igual aos programas da Rita Lobbo 
+    • no bloco {CURIOSIDADE 1} substitua por dica de nutrição
+    • no bloco {CURIOSIDADE 2} substitua por dica para uma vida saudável
+    • no bloco {FINALIZAÇÃO} substitua por uma despedida gentil e agradável
+    • O podcast deve ser curto
+    • O podcast vai ser apresentado por uma pessoa chamada Cláudia
+    • Use termos de fácil explicação
+{REGRAS NEGATIVAS}
+    • Não ultrapasse 8 minutos
+    • Não utilize termos técnicos
